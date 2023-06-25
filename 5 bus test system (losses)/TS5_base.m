@@ -90,7 +90,7 @@ Gen3values(counter) = busdata(3,7);
 %In this case it is set to Bus 2. Changing the row value (n , 5) from 2-5 
 %will access the bus that we are incrementing the load. DON'T  forget to 
 %change the row value to the corresponding bus you are testing.
-busdata(5,5) = busdata(5,5) + 1;
+busdata(2,5) = busdata(2,5) + 1;
 
 %Saving the values of the individual containers into a single big container
 base_2(counter, 1) = TotalDemand(counter);
