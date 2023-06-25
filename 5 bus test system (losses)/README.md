@@ -12,4 +12,13 @@
   3. lfnewton.m
   4. lfybus.me
   5. lineflow.m
-These MATLAB scripts were developed
+
+These MATLAB scripts were developed by Saadat in order to test transmission systems given their bus data, line data etc. Please make sure to always have these files in your folder while using the main case study files.
+
+* **CASE STUDY**
+  1. TS5_base.m
+  2. TS5_incgen.m
+  3. TS5_modgen.m
+  4. TS5_PlotConsolidation.m
+ 
+These are the main
