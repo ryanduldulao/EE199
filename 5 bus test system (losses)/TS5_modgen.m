@@ -111,7 +111,7 @@ end
 %Saving the big container into a .mat file for plotting the consolidated
 %result. DON'T forget to change the accompanying number to the bus number 
 %being tested.
-save modgen_5.mat modgen_5;
+save modgen_2.mat modgen_2;
 
 %Optional figure position upon display
 %set(0,'defaultfigureposition',[550 250 800 600])
