@@ -32,4 +32,4 @@ These MATLAB scripts were developed by Saadat in order to test transmission syst
 These are the main case study files that will be tweaked to execute the study. Files 1 to 3 are the case study files while the 4th one is a script to consolidate the data from the different buses per case study. Each file also has instructions on how to use it.
 
 ### Instructions
-Simply download all the files into a single folder. Open in MATLAB. Set the path to the current folder in order to run the code.
+Simply download all the files into a single folder. Open in MATLAB. Set the path to the current folder in order to run the code. Files were made using MATLAB R2021a.
