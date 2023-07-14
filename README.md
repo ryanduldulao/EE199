@@ -1,6 +1,6 @@
 # EE199
 
-Automatic generation control protocol to minimize generation costs for a single bus transmission system model with loss analysis using a five bus transmission system
+Automatic generation control protocol to minimize generation costs for a single bus transmission system model.
 
 by Ryan Duldulao and Joel Palicos
 
